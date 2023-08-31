@@ -1,1 +1,1 @@
-# write_money_spend
+using ruby to check how much money i spend on 1 month
