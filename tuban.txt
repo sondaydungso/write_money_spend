@@ -1,1 +1,3 @@
-
+2023-09-02:fitness:23$
+2023-09-02:dishwashing + umbrella: 33$
+2023-09-02:food:22$
